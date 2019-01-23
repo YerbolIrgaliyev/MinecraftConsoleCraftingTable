@@ -1,0 +1,7 @@
+C:\Users\вава\source\repos\CrafringTable\bin\Debug\CrafringTable.exe.config
+C:\Users\вава\source\repos\CrafringTable\bin\Debug\CrafringTable.exe
+C:\Users\вава\source\repos\CrafringTable\bin\Debug\CrafringTable.pdb
+C:\Users\вава\source\repos\CrafringTable\obj\Debug\CrafringTable.csprojAssemblyReference.cache
+C:\Users\вава\source\repos\CrafringTable\obj\Debug\CrafringTable.csproj.CoreCompileInputs.cache
+C:\Users\вава\source\repos\CrafringTable\obj\Debug\CrafringTable.exe
+C:\Users\вава\source\repos\CrafringTable\obj\Debug\CrafringTable.pdb
